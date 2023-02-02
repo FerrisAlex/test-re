@@ -16,10 +16,16 @@
   background-color: white;
   border-radius: 12px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  display: flex;
+  flex-direction: column;
   margin-bottom: 24px;
   padding: 24px;
   position: sticky;
   top: 4px;
+}
+
+.filter-title {
+  text-align: center;
 }
 
 .filter-values {
@@ -34,5 +40,5 @@
 }
 
 .clean-filters-container {
-  margin-bottom: 24px;
+  align-self: center;
 }

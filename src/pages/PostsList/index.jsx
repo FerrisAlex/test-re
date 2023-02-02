@@ -25,7 +25,7 @@ const PostsList = () => {
     let dataLeaked = [];
     switch (type) {
       case 'userId':
-        dataLeaked = state.oldData.filter(elem => elem.userId == filter);
+        dataLeaked = state.oldData.filter(elem => elem.userId === filter);
         break;
 
       case 'title':
@@ -40,7 +40,7 @@ const PostsList = () => {
         break;
     }
 
-    if (dataLeaked.length == 0) {
+    if (dataLeaked.length === 0) {
       alert(
         "No results for this filter. Or invalid filter type, try with these options: User ID, Title, Body"
       );
@@ -72,6 +72,7 @@ const PostsList = () => {
     <div>
       <div className="container">
         <div className="filter-container">
+          <h3 className="filter-title">Filters</h3>
           <div className="filter-values">
             <div className="filter-component filter-type">
               <Form.Select
