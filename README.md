@@ -58,6 +58,6 @@
   ```
 
 
-  ### Gracias por su atencion y la oportunidad, espero haber hecho una buena solución.
+  ### Gracias por su atención y la oportunidad, espero haber hecho una buena solución.
 
 
