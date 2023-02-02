@@ -4,8 +4,8 @@
 
 ## 1. Herramientas necesarias
   - [Docker](https://www.docker.com/get-started/)
-  - [npm >= 8](https://docs.npmjs.com)
   - [Node.js >= 16](https://nodejs.org/en/)
+  - [npm >= 8](https://docs.npmjs.com)
 
 ## 2. Ejecución de la aplicación
   - ### Ejecutar aplicación paso a paso utilizando la herramienta Docker
