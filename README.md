@@ -25,7 +25,7 @@
 
   4. Luego que tengamos la imagen creada, necesitamos ejecutar la aplicación utilizando la imagen que hemos creado anteriormente: 
   ```
-  $ docker run -p 3000:3000 --name [nombre de la aplicación] [nombre de la imagen creada anteriormente]:[version de la imagen mencionada] 
+  $ docker run -p 3000:3000 --name [nombre del contenedor] [nombre de la imagen creada anteriormente]:[version de la imagen mencionada] 
   ```
   Ejemplo: 
 
