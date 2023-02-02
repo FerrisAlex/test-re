@@ -2,13 +2,13 @@
 
 ## Ejecutar aplicación (Instrucciones):
 
-### 1. Herramientas necesarias
+## 1. Herramientas necesarias
   - [Docker](https://www.docker.com/get-started/)
   - [npm >= 8](https://docs.npmjs.com)
   - [Node.js >= 16](https://nodejs.org/en/)
 
-### 2. Ejecución de la aplicación
-  - #### Ejecutar aplicación paso a paso utilizando la herramienta Docker
+## 2. Ejecución de la aplicación
+  - ### Ejecutar aplicación paso a paso utilizando la herramienta Docker
 
   1. Clonar el repositorio de Gihub.
 
@@ -39,7 +39,7 @@
     http://localhost:3000/
   ```
 
- - #### Ejecutar aplicación paso a paso sin utilizar la herramienta Docker
+ - ### Ejecutar aplicación paso a paso sin utilizar la herramienta Docker
 
   1. Clonar el repositorio de Gihub.
 
